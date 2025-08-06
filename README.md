@@ -18,7 +18,6 @@ Computer Science student passionate about Reverse Engineering and Pentesting.
 ## 🌟 Skills & Interests
 
 - 🔒 Cybersecurity: Pentesting, vulnerability analysis, reverse engineering
-- 🛠 Languages: C, C++, Rust (learning), Python
 - 🏗 Low-level Development: Exploitation, OS, embedded systems
 - 🚀 Tech Watch: Keeping up with security and development trends
 
