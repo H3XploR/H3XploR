@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I’m H3XploR
 
-<!--
-**H3XploR/H3XploR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computer Science student passionate about Reverse Engineering and Pentesting.  
+Experienced C/C++ developer, currently learning Rust to expand my skills.
+
+---
+
+## 🌟 Skills & Interests
+
+- 🔒 Cybersecurity: Pentesting, vulnerability analysis, reverse engineering
+- 🛠 Languages: C, C++, Rust (learning), Python
+- 🏗 Low-level Development: Exploitation, OS, embedded systems
+- 🚀 Tech Watch: Keeping up with security and development trends
+
+---
+
+![H3XploR’s GitHub stats](https://github-readme-stats.vercel.app/api?username=H3XploR&show_icons=true&theme=radical)
