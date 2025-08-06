@@ -6,6 +6,13 @@
 
 Computer Science student passionate about Reverse Engineering and Pentesting.  
 Experienced C/C++ developer, currently learning Rust to expand my skills.
+<p>
+    <img src="https://img.shields.io/badge/-C-blue" alt="C badge">
+    <img src="https://img.shields.io/badge/-C++-blue" alt="C++ badge">
+    <img src="https://img.shields.io/badge/-Rust-orange" alt="Rust badge">
+    <img src="https://img.shields.io/badge/-Python-green" alt="Python badge">
+    <img src="https://img.shields.io/badge/-ASM-red" alt="ASM badge">
+</p>
 
 ---
 
